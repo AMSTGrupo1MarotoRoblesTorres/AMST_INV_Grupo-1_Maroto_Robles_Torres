@@ -16,12 +16,15 @@
             android:id="@+id/txtResultado"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Resultado"
             android:layout_marginTop="250dp"
-            android:textAlignment="center"
+            android:background="#7B1FA2"
             android:gravity="center_horizontal"
-            android:textSize="25dp"
-            android:textColor="@color/black"/>
+            android:text="Resultado"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="80dp"/>
         >
 
         <Button
